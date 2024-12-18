@@ -1,3 +1,13 @@
 .logo-tirex{
     width: 100px;
 }
+
+.rayap-icon {
+    display: inline-block;
+    background-image: url('../img/rayap.png');
+    background-size: contain;
+    width: 1em; /* Sesuaikan ukuran dengan teks */
+    height: 1em;
+    text-indent: -9999px; /* Sembunyikan teks ikon */
+    filter: brightness(0) invert(1);
+}
